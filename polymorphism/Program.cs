@@ -25,7 +25,7 @@ namespace polymorphism
         public override void PrintFullName()
         {
             Console.WriteLine(FirstName + " " + LastName + " Full time");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 
@@ -34,7 +34,7 @@ namespace polymorphism
         public override void PrintFullName()
         {
             Console.WriteLine(FirstName + " " + LastName + " Part time");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
     }
@@ -44,7 +44,7 @@ namespace polymorphism
         public override void PrintFullName()
         {
             Console.WriteLine(FirstName + " " + LastName + " Temporary");
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 
@@ -66,7 +66,7 @@ namespace polymorphism
             }
 
             
-            Console.ReadLine();
+            
 
         }
     }
